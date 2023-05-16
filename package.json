@@ -1,16 +1,23 @@
 {
-  "dependencies": {
-    "discord": "^0.8.2",
-    "discord.js": "^14.11.0",
-    "dotenv": "^16.0.3"
-  },
-  "name": "bot-discord",
+  "name": "discordjs-by-iamswan",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamSwan/DiscordJS-by-IamSwan.git"
+  },
   "author": "IamSwan",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/IamSwan/DiscordJS-by-IamSwan/issues"
+  },
+  "homepage": "https://github.com/IamSwan/DiscordJS-by-IamSwan#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3"
+  }
 }
